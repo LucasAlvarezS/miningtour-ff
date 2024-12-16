@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "799732514088",
+    "project_id": "mining-tour-1uj9yd",
+    "storage_bucket": "mining-tour-1uj9yd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:799732514088:android:bf03b2a0d2671d34c3641d",
+        "android_client_info": {
+          "package_name": "com.mycompany.miningtour"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9XBexKuEgK1OHispNWl_6pTw5G7pVatk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

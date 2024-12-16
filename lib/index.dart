@@ -1,0 +1,47 @@
+// Export pages
+export '/inicio/pagina_inicio/pagina_inicio_widget.dart'
+    show PaginaInicioWidget;
+export '/mina_de_cuarzo/tour_mina_de_cuarzo/tour_mina_de_cuarzo_widget.dart'
+    show TourMinaDeCuarzoWidget;
+export '/mina_el_brillador/info_mina_el_br/info_mina_el_br_widget.dart'
+    show InfoMinaElBrWidget;
+export '/mina_el_brillador/historia_mina_el_br/historia_mina_el_br_widget.dart'
+    show HistoriaMinaElBrWidget;
+export '/mina_el_brillador/normas_y_reglas_mina_el_br/normas_y_reglas_mina_el_br_widget.dart'
+    show NormasYReglasMinaElBrWidget;
+export '/mina_de_cuarzo/informacion_contacto_mina_de_cuarzo/informacion_contacto_mina_de_cuarzo_widget.dart'
+    show InformacionContactoMinaDeCuarzoWidget;
+export '/mina_san_pedro/datos_curiosos_mina_san_p/datos_curiosos_mina_san_p_widget.dart'
+    show DatosCuriososMinaSanPWidget;
+export '/inicio/minas_recorridos/minas_recorridos_widget.dart'
+    show MinasRecorridosWidget;
+export '/mina_san_pedro/tour_mina_san_p/tour_mina_san_p_widget.dart'
+    show TourMinaSanPWidget;
+export '/mina_el_brillador/tour_mina_el_br/tour_mina_el_br_widget.dart'
+    show TourMinaElBrWidget;
+export '/mina_san_pedro/info_mina_san_p/info_mina_san_p_widget.dart'
+    show InfoMinaSanPWidget;
+export '/mina_de_cuarzo/info_mina_de_cuarzo/info_mina_de_cuarzo_widget.dart'
+    show InfoMinaDeCuarzoWidget;
+export '/mina_de_cuarzo/historia_mina_de_cuarzo/historia_mina_de_cuarzo_widget.dart'
+    show HistoriaMinaDeCuarzoWidget;
+export '/mina_san_pedro/historia_mina_san_p/historia_mina_san_p_widget.dart'
+    show HistoriaMinaSanPWidget;
+export '/mina_de_cuarzo/normas_y_reglas_mina_de_cuarzo/normas_y_reglas_mina_de_cuarzo_widget.dart'
+    show NormasYReglasMinaDeCuarzoWidget;
+export '/mina_san_pedro/normas_y_reglas_mina_san_p/normas_y_reglas_mina_san_p_widget.dart'
+    show NormasYReglasMinaSanPWidget;
+export '/mina_el_brillador/datos_curiosos_mina_el_br/datos_curiosos_mina_el_br_widget.dart'
+    show DatosCuriososMinaElBrWidget;
+export '/mina_de_cuarzo/datos_curiosos_mina_de_cuarzo/datos_curiosos_mina_de_cuarzo_widget.dart'
+    show DatosCuriososMinaDeCuarzoWidget;
+export '/mina_el_brillador/informacion_contacto_mina_el_br/informacion_contacto_mina_el_br_widget.dart'
+    show InformacionContactoMinaElBrWidget;
+export '/mina_san_pedro/informacion_contacto_mina_san_p/informacion_contacto_mina_san_p_widget.dart'
+    show InformacionContactoMinaSanPWidget;
+export '/mina_san_pedro/recorrido_mina_san_p/recorrido_mina_san_p_widget.dart'
+    show RecorridoMinaSanPWidget;
+export '/mina_de_cuarzo/recorrido_mina_de_cuarzo/recorrido_mina_de_cuarzo_widget.dart'
+    show RecorridoMinaDeCuarzoWidget;
+export '/mina_el_brillador/recorrido_mina_el_br/recorrido_mina_el_br_widget.dart'
+    show RecorridoMinaElBrWidget;
